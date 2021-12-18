@@ -1,5 +1,7 @@
-# Math 496: Selected Topics in Mathematics
-## (Mathematical Epidemiology)
+---
+title: Home
+---
+## Mathematical Epidemiology
 
 > **Winter Term 2022 Simon Fraser University**
 
@@ -16,7 +18,8 @@ This course will consist of four modules:
 
 
 ## Course Content
-[**Syllabus** ](Syllabus.pdf) (subject to change)
+[**Syllabus** ](Math496_Syllabus.pdf) (subject to change)
+[**Lecture Notes **](https://amacp.github.io/Math496/LectureNotes.html)
 
 **Assignment PDFs**
 * Assignment 1: [Anderson and May 1982](Anderson1982.pdf) (Due: )
