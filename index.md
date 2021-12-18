@@ -19,8 +19,8 @@ This course will consist of four modules:
 
 **Assignment PDFs**
 * Assignment 1: [Anderson and May 1982](Anderson1982.pdf) (Due: )
-* Assignment 2: [House and Keeling 2008](House2008.pdf) (Due: )
+* Assignment 2: [House and Keeling 2008](HouseKeeling2008.pdf) (Due: )
 * Assignment 3: [Keeling 2005](Keeling2005.pdf) (Due: )
-* Assignment 4: [Parham et al. 2000](Parham2000.pdf) (Due: )
-* Assignment 5: [Koella and Anita 2003](Koella2003.pdf) (Due: )
+* Assignment 4: [Parham and Michael 2010](ParhamMichael2010.pdf) (Due: )
+* Assignment 5: [Koella and Antia 2003](KoellaAntia2003.pdf) (Due: )
 * Assignment 6: [Barido-Sottani et al. 2018](BaridoSottani2018.pdf) (Due: )
