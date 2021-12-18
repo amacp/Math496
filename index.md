@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+# Math 496: Selected Topics in Mathematics (Mathematical Epidemiology)
 
-You can use the [editor on GitHub](https://github.com/amacp/Math496/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+> **Winter Term 2022 Simon Fraser University**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Course Overview
+The aim of this course is to introduce the fundemental mathematical tools and survey contemporary methods used to understand and forcast epidemic dynamics and their use to inform public health policy. As a rapidly changing field, this course will focus on developing our ability to understand, analyze, and apply the recent scientific literature.  
 
-### Markdown
+This course will consist of four modules:
+* Mathematical Modelling in Epidemiology
+* Disease Ecology and Evolution
+* Genomic Epidmeiology
+* Within-host Models
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Required Text:** Keeling, M.J., Rohani, P., *Modeling Infectious Diseases In Humans and Animals*. Princeton University Press. 2008. ISBN-13: 978-0-11617-4
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+## Course Content
+[**Syllabus** ](Syllabus.pdf) (subject to change)
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/amacp/Math496/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+**Assignment PDFs**
+* Assignment 1: [Anderson and May 1982](Anderson1982.pdf) (Due: )
+* Assignment 2: [House and Keeling 2008](House2008.pdf) (Due: )
+* Assignment 3: [Keeling 2005](Keeling2005.pdf) (Due: )
+* Assignment 4: [Parham et al. 2000](Parham2000.pdf) (Due: )
+* Assignment 5: [Koella and Anita 2003](Koella2003.pdf) (Due: )
+* Assignment 6: [Barido-Sottani et al. 2018](BaridoSottani2018.pdf) (Due: )
