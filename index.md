@@ -1,4 +1,5 @@
-# Math 496: Selected Topics in Mathematics (Mathematical Epidemiology)
+# Math 496: Selected Topics in Mathematics
+## (Mathematical Epidemiology)
 
 > **Winter Term 2022 Simon Fraser University**
 
