@@ -24,6 +24,12 @@ title: Lecture Materials
 17. Within-Host models
 18. Immunology and Original Antigenic Sin
 
-# Matheamtica Notebooks
+# _Matheamtica_ Notebooks
+* The SIR Model
+* Distributed Delays
 
 # Mathematical Primers
+* Numerical Integration
+* Equilibria and Stability Analyses
+* The Exponential Distribution
+* Convolutions and the Erlang Distribution
