@@ -5,24 +5,26 @@ title: Lecture Materials
 
 # Lecture Notes
 
-1. The SIR Model
-2. Distributed Delays
-3. Transmission Heterogenities
-4. Spatial Models
-5. Stoachstic Epidemic Models
-6. Network Models
-7. Model Parameterization
-8. Model Uncertainty, adequacy, and selection
-9. Prediction and Forcasting
-10. Interventions
-11. Disease Ecology
-12. Evolutionary Epidemiology
-13. Fundamentals of Genomics and Phylogenetics
-14. Genomic Inference of Transmission Chains
-15. Phylodynamics
-16. Phylogenography
-17. Within-Host models
-18. Immunology and Original Antigenic Sin
+2. The SIR Model  
+    A. [Primer 2.1](https://storage.cloud.google.com/math496/Primer2_1.mp4.zip)
+    B. [Primer 2.2](https://storage.cloud.google.com/math496/Primer2_2.mp4.zip)
+3. Distributed Delays
+4. Transmission Heterogenities
+5. Spatial Models
+6. Stoachstic Epidemic Models
+7. Network Models
+8. Model Parameterization
+9. Model Uncertainty, adequacy, and selection
+10. Prediction and Forcasting
+11. Interventions
+12. Disease Ecology
+13. Evolutionary Epidemiology
+14. Fundamentals of Genomics and Phylogenetics
+15. Genomic Inference of Transmission Chains
+16. Phylodynamics
+17. Phylogenography
+18. Within-Host models
+19. Immunology and Original Antigenic Sin
 
 # _Matheamtica_ Notebooks
 * The SIR Model
