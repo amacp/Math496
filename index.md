@@ -22,6 +22,11 @@ This course will consist of four modules:
 
 [Lecture Note](https://amacp.github.io/Math496/LectureNotes.html)
 
+Tuesday 10:30-12:20 (Starting Janruary 11th)
+[Tuesday Zoom] (https://sfu.zoom.us/j/67247833947?pwd=ZTU1S0YvSGgxOWJLZ1VOWXFIcFh5QT09)
+Friday 10:30-11:20 (Starting Janruary 14th)
+[Friday Zoom] (https://sfu.zoom.us/j/66650087703?pwd=aHdRQ3NON0RZRit5YVlJUmRSU2VaZz09)
+
 **Assignment PDFs**
 * Assignment 1: [Anderson and May 1982](Anderson1982.pdf) (Due: )
 * Assignment 2: [House and Keeling 2008](HouseKeeling2008.pdf) (Due: )
