@@ -7,7 +7,9 @@ title: Lecture Materials
 
 2. The SIR Model  
     A. [Primer 2.1](https://storage.cloud.google.com/math496/Primer2_1.mp4.zip)
+    
     B. [Primer 2.2](https://storage.cloud.google.com/math496/Primer2_2.mp4.zip)
+    
 3. Distributed Delays
 4. Transmission Heterogenities
 5. Spatial Models
