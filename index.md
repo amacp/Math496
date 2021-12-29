@@ -22,6 +22,8 @@ This course will consist of four modules:
 
 [Lecture Note](https://amacp.github.io/Math496/LectureNotes.html)
 
+[Join Slack](https://join.slack.com/t/math496/shared_invite/zt-10vgjvfdx-51MzGDUCHOgMgIrrLakcFw)
+
 Tuesday 10:30-12:20 (Starting Janruary 11th)
 [Tuesday Zoom](https://sfu.zoom.us/j/67247833947?pwd=ZTU1S0YvSGgxOWJLZ1VOWXFIcFh5QT09)
 
