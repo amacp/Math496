@@ -31,7 +31,7 @@ Tuesday 10:30-12:20 (Starting Janruary 11th)
 Friday 10:30-11:20 (Starting Janruary 14th)
 [Friday Zoom](https://sfu.zoom.us/j/66650087703?pwd=aHdRQ3NON0RZRit5YVlJUmRSU2VaZz09)
 
-Office Hours: Tuesday and Friday12:30-1:30[Tuesday Office Hours] (https://sfu.zoom.us/j/67247833947?pwd=ZTU1S0YvSGgxOWJLZ1VOWXFIcFh5QT09)
+Office Hours: Tuesday and Friday12:30-1:30[Tuesday Office Hours](https://sfu.zoom.us/j/67247833947?pwd=ZTU1S0YvSGgxOWJLZ1VOWXFIcFh5QT09)
 
 **Writing Assignment PDFs**
 * Assignment 1: [Anderson and May 1982](Anderson1982.pdf) (Due: Janruary 21)*
