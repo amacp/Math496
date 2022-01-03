@@ -15,6 +15,7 @@ This course will consist of four modules:
 
 **Required Text:** Keeling, M.J., Rohani, P., *Modeling Infectious Diseases In Humans and Animals*. Princeton University Press. 2008. ISBN-13: 978-0-11617-4
 
+[**References**](https://amacp.github.io/Math496/Papers.html) List of primary literature used in this course
 
 ## Course Content
 
