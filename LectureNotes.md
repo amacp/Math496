@@ -4,12 +4,8 @@ title: Lecture Materials
 ---
 
 # Lecture Notes
-
+1. Introduction to Mathematical Epidmeiology
 2. The SIR Model  
-    A. [Primer 2.1](https://storage.cloud.google.com/math496/Primer2_1.mp4.zip)
-    
-    B. [Primer 2.2](https://storage.cloud.google.com/math496/Primer2_2.mp4.zip)
-    
 3. Distributed Delays
 4. Transmission Heterogenities
 5. Spatial Models
@@ -33,7 +29,6 @@ title: Lecture Materials
 * Distributed Delays
 
 # Mathematical Primers
-* Numerical Integration
-* Equilibria and Stability Analyses
-* The Exponential Distribution
-* Convolutions and the Erlang Distribution
+* 2.1 Numerical Integration (Notes [Video](https://storage.cloud.google.com/math496/Primer2_1.mp4.zip))
+* 2.2 Equilibria and Stability Analyses (Notes [Video](https://storage.cloud.google.com/math496/Primer2_2.mp4.zip))
+* 3.1 The Exponential Distribution, Convolutions and the Erlang Distribution (Notes Video)
