@@ -2,8 +2,9 @@
 layout: page
 title: Lecture Materials
 ---
+[*Lecture Notes*](https://1drv.ms/u/s!AocKn_gb7B2DgRiM-X3r5UFTbp4w) Link to Microsoft OneNote Notebook
 
-# Lecture Notes
+# Lecture Videos
 1. Introduction to Mathematical Epidmeiology
 2. The SIR Model  
 3. Distributed Delays
@@ -29,6 +30,7 @@ title: Lecture Materials
 * Distributed Delays
 
 # Mathematical Primers
-* 2.1 Numerical Integration (Notes [Video](https://storage.cloud.google.com/math496/Primer2_1.mp4.zip))
-* 2.2 Equilibria and Stability Analyses (Notes [Video](https://storage.cloud.google.com/math496/Primer2_2.mp4.zip))
-* 3.1 The Exponential Distribution, Convolutions and the Erlang Distribution (Notes Video)
+* 2.1 Numerical Integration ([Video](https://storage.cloud.google.com/math496/Primer2_1.mp4.zip))
+* 2.2 Equilibria and Stability Analyses ([Video](https://storage.cloud.google.com/math496/Primer2_2.mp4.zip))
+* 3.1 The Exponential Distribution, Convolutions and the Erlang Distribution (Video)
+* 3.2 Eigenvalues, Eigenvectors, and Eigendecomposition
