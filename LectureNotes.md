@@ -4,7 +4,7 @@ title: Lecture Materials
 ---
 [*Lecture Notes*](https://1drv.ms/u/s!AocKn_gb7B2DgRiM-X3r5UFTbp4w) Link to Microsoft OneNote Notebook
 
-# Lecture Videos
+# Lecture Videos and Mathematica Notebooks
 1. Introduction to Mathematical Epidmeiology
 2. The SIR Model (Video & [Mathematica](https://storage.cloud.google.com/math496/Lecture2_SIR.nb)) 
 3. Distributed Delays (Video & [Mathematica](https://storage.cloud.google.com/math496/Lecture3_Delays.nb))
@@ -25,12 +25,9 @@ title: Lecture Materials
 18. Within-Host models (Video & Mathematica)
 19. Immunology and Original Antigenic Sin (Video & Mathematica)
 
-# _Matheamtica_ Notebooks
-* The SIR Model
-* Distributed Delays
-
 # Mathematical Primers
 * 2.1 Numerical Integration ([Video](https://storage.cloud.google.com/math496/Primer2_1.mp4.zip))
 * 2.2 Equilibria and Stability Analyses ([Video](https://storage.cloud.google.com/math496/Primer2_2.mp4.zip))
 * 3.1 The Exponential Distribution, Convolutions and the Erlang Distribution (Video)
-* 3.2 Eigenvalues, Eigenvectors, and Eigendecomposition
+* 3.2 Eigenvalues, Eigenvectors, and Eigendecomposition (Video)
+ 
