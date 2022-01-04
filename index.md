@@ -7,12 +7,6 @@ title: Mathematical Epidemiology
 ## Course Overview
 The aim of this course is to introduce the fundemental mathematical tools and survey contemporary methods used to understand and forcast epidemic dynamics and their use to inform public health policy. As a rapidly changing field, this course will focus on developing our ability to understand, analyze, and apply the recent scientific literature.  
 
-This course will consist of four modules:
-* Mathematical Modelling in Epidemiology
-* Disease Ecology and Evolution
-* Genomic Epidmeiology
-* Within-host Models
-
 **Required Text:** Keeling, M.J., Rohani, P., *Modeling Infectious Diseases In Humans and Animals*. Princeton University Press. 2008. ISBN-13: 978-0-11617-4
 
 [**References**](https://amacp.github.io/Math496/Papers.html) List of primary literature used in this course
@@ -44,7 +38,12 @@ Office Hours: Tuesday and Friday12:30-1:30 [Office Hours Zoom](https://sfu.zoom.
 * Assignment 6: [Barido-Sottani et al. 2018](BaridoSottani2018.pdf) (Due: April 1)
 
 **Lab Assignments**
-* Lab 1: [Modelling HIV](https://storage.cloud.google.com/math496/LabAssignment1.pdf) (Due Janruary 19th)
+* Lab 1: [Modelling HIV](https://storage.cloud.google.com/math496/LabAssignment1.pdf) (Due Janruary 19th)*
+* Lab 2: 
+* Lab 3:
+* Lab 4:
+* Lab 5:
+* Lab 6:
 
 
 *All assignments due at 11:59pm
