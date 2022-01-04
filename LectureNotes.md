@@ -28,6 +28,6 @@ title: Lecture Materials
 # Mathematical Primers
 * 2.1 Numerical Integration ([Video](https://storage.cloud.google.com/math496/Primer2_1.mp4.zip))
 * 2.2 Equilibria and Stability Analyses ([Video](https://storage.cloud.google.com/math496/Primer2_2.mp4.zip))
-* 3.1 The Exponential Distribution, Convolutions and the Erlang Distribution (Video)
+* 3.1 The Exponential Distribution, Convolutions and the Erlang Distribution ([Video](https://storage.cloud.google.com/math496/Primer3_1.mp4.zip))
 * 3.2 Eigenvalues, Eigenvectors, and Eigendecomposition (Video)
  
