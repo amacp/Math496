@@ -11,6 +11,9 @@ The aim of this course is to introduce the fundemental mathematical tools and su
 
 [**References**](https://amacp.github.io/Math496/Papers.html) List of primary literature used in this course
 
+## Announcments
+
+
 ## Course Content
 
 [**Syllabus** ](https://storage.cloud.google.com/math496/Math496_Syllabus.pdf) (subject to change)
