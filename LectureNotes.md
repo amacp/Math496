@@ -8,22 +8,22 @@ title: Lecture Materials
 1. Introduction to Mathematical Epidmeiology
 2. The SIR Model (Video & [Mathematica](https://storage.cloud.google.com/math496/Lecture2_SIR.nb)) 
 3. Distributed Delays (Video & [Mathematica](https://storage.cloud.google.com/math496/Lecture3_Delays.nb))
-4. Transmission Heterogenities
-5. Spatial Models
-6. Stoachstic Epidemic Models
-7. Network Models
-8. Model Parameterization
-9. Model Uncertainty, adequacy, and selection
-10. Prediction and Forcasting
-11. Interventions
-12. Disease Ecology
-13. Evolutionary Epidemiology
-14. Fundamentals of Genomics and Phylogenetics
-15. Genomic Inference of Transmission Chains
-16. Phylodynamics
-17. Phylogenography
-18. Within-Host models
-19. Immunology and Original Antigenic Sin
+4. Transmission Heterogenities (Video & Mathematica)
+5. Spatial Models (Video & Mathematica)
+6. Stoachstic Epidemic Models (Video & Mathematica)
+7. Network Models (Video & Mathematica)
+8. Model Parameterization (Video & Mathematica)
+9. Model Uncertainty, adequacy, and selection (Video & Mathematica)
+10. Prediction and Forcasting (Video & Mathematica)
+11. Interventions (Video & Mathematica)
+12. Disease Ecology (Video & Mathematica)
+13. Evolutionary Epidemiology (Video & Mathematica)
+14. Fundamentals of Genomics and Phylogenetics (Video & Mathematica)
+15. Genomic Inference of Transmission Chains (Video & Mathematica)
+16. Phylodynamics (Video & Mathematica)
+17. Phylogenography (Video & Mathematica)
+18. Within-Host models (Video & Mathematica)
+19. Immunology and Original Antigenic Sin (Video & Mathematica)
 
 # _Matheamtica_ Notebooks
 * The SIR Model
