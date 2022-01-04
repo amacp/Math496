@@ -6,8 +6,8 @@ title: Lecture Materials
 
 # Lecture Videos
 1. Introduction to Mathematical Epidmeiology
-2. The SIR Model  
-3. Distributed Delays
+2. The SIR Model (Video & [Mathematica](https://storage.cloud.google.com/math496/Lecture2_SIR.nb)) 
+3. Distributed Delays (Video & [Mathematica](https://storage.cloud.google.com/math496/Lecture3_Delays.nb))
 4. Transmission Heterogenities
 5. Spatial Models
 6. Stoachstic Epidemic Models
