@@ -17,7 +17,7 @@ The aim of this course is to introduce the fundemental mathematical tools and su
 
 [Lecture Notes](https://amacp.github.io/Math496/LectureNotes.html)
 
-[Join Slack](https://join.slack.com/t/math496/shared_invite/zt-10vgjvfdx-51MzGDUCHOgMgIrrLakcFw)
+[Join Slack](https://join.slack.com/t/math496/shared_invite/zt-10vgjvfdx-51MzGDUCHOgMgIrrLakcFw) This course will use Slack as a discussion board and platform for course announcments.
 
 Tuesday 10:30-12:20 (Starting Janruary 11th)
 [Tuesday Zoom](https://sfu.zoom.us/j/67247833947?pwd=ZTU1S0YvSGgxOWJLZ1VOWXFIcFh5QT09)
