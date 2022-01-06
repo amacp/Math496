@@ -16,7 +16,7 @@ The aim of this course is to introduce the fundemental mathematical tools and su
 
 ## Course Content
 
-[**Syllabus** ](https://storage.cloud.google.com/math496/Math496_Syllabus.pdf) (subject to change)
+[**Syllabus** ](https://storage.googleapis.com/math496/Math496_Syllabus.pdf) (subject to change)
 
 [Lecture Notes](https://amacp.github.io/Math496/LectureNotes.html)
 
@@ -41,7 +41,7 @@ Office Hours: Tuesday and Friday12:30-1:30 [Office Hours Zoom](https://sfu.zoom.
 * Assignment 6: [Barido-Sottani et al. 2018](BaridoSottani2018.pdf) (Due: April 1)
 
 **Lab Assignments**
-* Lab 1: [Modelling HIV](https://storage.cloud.google.com/math496/LabAssignment1.pdf) (Due Janruary 19th)*
+* Lab 1: [Modelling HIV](https://storage.googleapis.com/math496/LabAssignment1.pdf) (Due Janruary 19th)*
 * Lab 2: 
 * Lab 3:
 * Lab 4:
