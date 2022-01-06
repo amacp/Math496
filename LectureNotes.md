@@ -6,8 +6,8 @@ title: Lecture Materials
 
 # Lecture Videos and Mathematica Notebooks
 1. Introduction to Mathematical Epidmeiology
-2. The SIR Model (Video & [Mathematica](https://storage.cloud.google.com/math496/Lecture2_SIR.nb)) 
-3. Distributed Delays (Video & [Mathematica](https://storage.cloud.google.com/math496/Lecture3_Delays.nb))
+2. The SIR Model (Video & [Mathematica](https://storage.googleapis.com/math496/Lecture2_SIR.nb)) 
+3. Distributed Delays (Video & [Mathematica](https://storage.googleapis.com/math496/Lecture3_Delays.nb))
 4. Transmission Heterogenities (Video & Mathematica)
 5. Spatial Models (Video & Mathematica)
 6. Stoachstic Epidemic Models (Video & Mathematica)
@@ -26,8 +26,8 @@ title: Lecture Materials
 19. Immunology and Original Antigenic Sin (Video & Mathematica)
 
 # Mathematical Primers
-* 2.1 Numerical Integration ([Video](https://storage.cloud.google.com/math496/Primer2_1.mp4.zip))
-* 2.2 Equilibria and Stability Analyses ([Video](https://storage.cloud.google.com/math496/Primer2_2.mp4.zip))
-* 3.1 The Exponential Distribution, Convolutions and the Erlang Distribution ([Video](https://storage.cloud.google.com/math496/Primer3_1.mp4.zip))
+* 2.1 Numerical Integration ([Video](https://storage.googleapis.com/math496/Primer2_1.mp4.zip))
+* 2.2 Equilibria and Stability Analyses ([Video](https://storage.googleapis.com/math496/Primer2_2.mp4.zip))
+* 3.1 The Exponential Distribution, Convolutions and the Erlang Distribution ([Video](https://storage.googleapis.com/math496/Primer3_1.mp4.zip))
 * 3.2 Eigenvalues, Eigenvectors, and Eigendecomposition (Video)
  
