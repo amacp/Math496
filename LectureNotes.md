@@ -26,7 +26,7 @@ title: Lecture Materials
 19. Immunology and Original Antigenic Sin (Video & Mathematica)
 
 # Mathematical Primers
-* 1.1 Accessing Raspberry Pi with VNC ([Instructions]())
+* 1.1 Accessing Raspberry Pi with VNC ([Instructions](https://storage.googleapis.com/math496/VNC_Access.docx))
 * 1.2 Introduction to Mathematica ([Webpage](https://www.wolfram.com/language/fast-introduction-for-math-students/en///)) 
 * 2.1 Numerical Integration ([Video](https://storage.googleapis.com/math496/Primer2_1.mp4.zip))
 * 2.2 Equilibria and Stability Analyses ([Video](https://storage.googleapis.com/math496/Primer2_2.mp4.zip))
