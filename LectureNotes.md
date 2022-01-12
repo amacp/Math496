@@ -2,12 +2,10 @@
 layout: page
 title: Lecture Materials
 ---
-[*Lecture Notes*](https://onedrive.live.com/view.aspx?resid=831DEC1BF89F0A87%21152&id=documents&wd=target%28Class.one%7CD83647E3-4D5A-C345-8EEB-2E0B23865C7D%2F%29onenote:https://d.docs.live.net/831dec1bf89f0a87/Documents/Math496/Class.one#section-id={D83647E3-4D5A-C345-8EEB-2E0B23865C7D}&end)
-Link to Microsoft OneNote Notebook.  Don't have OneNote? Access it for free for [SFU students](https://www.sfu.ca/information-systems/services/software/microsoft-365.html).
 
 # Lecture Videos and Mathematica Notebooks
-1. Introduction to Mathematical Epidmeiology
-2. The SIR Model (Video & [Mathematica](https://storage.googleapis.com/math496/Lecture2_SIR.nb)) 
+1. Introduction to Mathematical Epidmeiology ([Notes](https://storage.googleapis.com/math496/Lecture1_Notes.pdf))
+2. The SIR Model (Video & [Mathematica](https://storage.googleapis.com/math496/Lecture2_SIR.nb) & [Notes](https://storage.googleapis.com/math496/Lecture2_Notes.pdf)) 
 3. Distributed Delays (Video & [Mathematica](https://storage.googleapis.com/math496/Lecture3_Delays.nb))
 4. Transmission Heterogenities (Video & Mathematica)
 5. Spatial Models (Video & Mathematica)
@@ -29,9 +27,9 @@ Link to Microsoft OneNote Notebook.  Don't have OneNote? Access it for free for 
 # Mathematical Primers
 * 1.1 Accessing Raspberry Pi with VNC ([Instructions](https://storage.googleapis.com/math496/VNC_Access.docx))
 * 1.2 Introduction to Mathematica ([Webpage](https://www.wolfram.com/language/fast-introduction-for-math-students/en///)) 
-* 2.1 Numerical Integration ([Video](https://storage.googleapis.com/math496/Primer2_1.mp4.zip))
-* 2.2 Equilibria and Stability Analyses ([Video](https://storage.googleapis.com/math496/Primer2_2.mp4.zip))
-* 3.1 The Exponential Distribution, Convolutions and the Erlang Distribution ([Video](https://storage.googleapis.com/math496/Primer3_1.mp4.zip))
-* 3.2 Eigenvalues, Eigenvectors, and Eigendecomposition (Video)
+* 2.1 Numerical Integration ([Video](https://storage.googleapis.com/math496/Primer2_1.mp4.zip) & [Notes](https://storage.googleapis.com/math496/Primer2.1_Notes.pdf))
+* 2.2 Equilibria and Stability Analyses ([Video](https://storage.googleapis.com/math496/Primer2_2.mp4.zip) & [Notes](https://storage.googleapis.com/math496/Primer2.2_Notes.pdf))
+* 3.1 The Exponential Distribution, Convolutions and the Erlang Distribution ([Video](https://storage.googleapis.com/math496/Primer3_1.mp4.zip) & [Notes](https://storage.googleapis.com/math496/Primer3.1_Notes.pdf))
+* 3.2 Eigenvalues, Eigenvectors, and Eigendecomposition (Video & Notes)
 * 5.1 Moments (centralized and non-centrered)
  
