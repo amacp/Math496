@@ -2,7 +2,7 @@
 layout: page
 title: Lecture Materials
 ---
-[*Lecture Notes*](https://onedrive.live.com/view.aspx?resid=831DEC1BF89F0A87%21152&id=documentsonenote:https://d.docs.live.net/831dec1bf89f0a87/Documents/Math496/)
+[*Lecture Notes*](https://onedrive.live.com/view.aspx?resid=831DEC1BF89F0A87%21152&id=documents&wd=target%28Class.one%7CD83647E3-4D5A-C345-8EEB-2E0B23865C7D%2F%29onenote:https://d.docs.live.net/831dec1bf89f0a87/Documents/Math496/Class.one#section-id={D83647E3-4D5A-C345-8EEB-2E0B23865C7D}&end)
 Link to Microsoft OneNote Notebook.  Don't have OneNote? Access it for free for [SFU students](https://www.sfu.ca/information-systems/services/software/microsoft-365.html).
 
 # Lecture Videos and Mathematica Notebooks
