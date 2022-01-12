@@ -2,7 +2,8 @@
 layout: page
 title: Lecture Materials
 ---
-[*Lecture Notes*](https://1drv.ms/u/s!AocKn_gb7B2DgRiM-X3r5UFTbp4w) Link to Microsoft OneNote Notebook.  Don't have OneNote? Access it for free for [SFU students](https://www.sfu.ca/information-systems/services/software/microsoft-365.html).
+[*Lecture Notes*](https://onedrive.live.com/view.aspx?resid=831DEC1BF89F0A87%21152&id=documents
+onenote:https://d.docs.live.net/831dec1bf89f0a87/Documents/Math496/) Link to Microsoft OneNote Notebook.  Don't have OneNote? Access it for free for [SFU students](https://www.sfu.ca/information-systems/services/software/microsoft-365.html).
 
 # Lecture Videos and Mathematica Notebooks
 1. Introduction to Mathematical Epidmeiology
