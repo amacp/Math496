@@ -33,6 +33,9 @@ Office Hours: Tuesday and Friday12:30-1:30 [Office Hours Zoom](https://sfu.zoom.
 
 
 **Writing Assignment PDFs**
+Submit Assignments as a **PDF** via email.  
+For each assignment provide a **max 2pg critical review** of the assigned peer-reviewed paper.  See syllabus for marking guide.
+
 * Assignment 1: [Anderson and May 1982](https://storage.googleapis.com/math496/PDFs/AndersondMay1982.pdf) (Due: Janruary 23)* 
 * Assignment 2: [House and Keeling 2008](https://storage.googleapis.com/math496/PDFs/HouseKeeling2008.pdf) (Due: Janruary 30)
 * Assignment 3: [Keeling 2005](https://storage.googleapis.com/math496/PDFs/Keeling2005.pdf) (Due: February 6)
