@@ -16,7 +16,7 @@ The aim of this course is to introduce the fundemental mathematical tools and su
 
 ## Course Content
 
-[**Syllabus** ](https://storage.googleapis.com/math496/Math496_Syllabus%20(1).pdf) (subject to change)
+[**Syllabus** ](https://storage.googleapis.com/math496/Math496_Syllabus.pdf) (subject to change)
 
 [Lecture Notes](https://amacp.github.io/Math496/LectureNotes.html)
 
