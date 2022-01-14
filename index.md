@@ -33,12 +33,12 @@ Office Hours: Tuesday and Friday12:30-1:30 [Office Hours Zoom](https://sfu.zoom.
 
 
 **Writing Assignment PDFs**
-* Assignment 1: [Anderson and May 1982](AndersonMay1982.pdf) (Due: Janruary 23)* 
-* Assignment 2: [House and Keeling 2008](HouseKeeling2008.pdf) (Due: Janruary 30)
-* Assignment 3: [Keeling 2005](Keeling2005.pdf) (Due: February 6)
-* Assignment 4: [Parham and Michael 2010](ParhamMichael2010.pdf) (Due: March 6)
-* Assignment 5: [Huang and Rohanni 2006](HuangRohanni2006.pdf) (Due: March 20)
-* Assignment 6: [Barido-Sottani et al. 2018](BaridoSottani2018.pdf) (Due: April 3)
+* Assignment 1: [Anderson and May 1982](https://storage.googleapis.com/math496/PDFs/AndersondMay1982.pdf) (Due: Janruary 23)* 
+* Assignment 2: [House and Keeling 2008](https://storage.googleapis.com/math496/PDFs/HouseKeeling2008.pdf) (Due: Janruary 30)
+* Assignment 3: [Keeling 2005](https://storage.googleapis.com/math496/PDFs/Keeling2005.pdf) (Due: February 6)
+* Assignment 4: [Parham and Michael 2010](https://storage.googleapis.com/math496/PDFs/ParhamMichael2010.pdf) (Due: March 6)
+* Assignment 5: [Huang and Rohanni 2006](https://storage.googleapis.com/math496/PDFs/HuangRohani2006.pdf) (Due: March 20)
+* Assignment 6: [Stadler et al. 2012](https://storage.googleapis.com/math496/PDFs/Stadler2012.pdf) (Due: April 3)
 
 **Lab Assignments**
 * Lab 1: [Modelling HIV](https://storage.googleapis.com/math496/LabAssignment1.pdf) (Due Janruary 19th)*
