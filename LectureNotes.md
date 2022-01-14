@@ -5,8 +5,8 @@ title: Lecture Materials
 
 # Lecture Videos and Mathematica Notebooks
 1. Introduction to Mathematical Epidmeiology ([Notes](https://storage.googleapis.com/math496/Lecture1_Notes.pdf))
-2. The SIR Model (Video & [Mathematica](https://storage.googleapis.com/math496/Lecture2_SIR.nb) & [Notes](https://storage.googleapis.com/math496/Lecture2_Notes.pdf)) 
-3. Distributed Delays (Video & [Mathematica](https://storage.googleapis.com/math496/Lecture3_Delays.nb))
+2. The SIR Model ([Video](https://storage.googleapis.com/math496/Videos/Lecture2_1_14.mp4) & [Mathematica](https://storage.googleapis.com/math496/Mathematica/Lecture2_SIR.nb) & [Notes](https://storage.googleapis.com/math496/Notes/Lecture2_Notes.pdf)) 
+3. Distributed Delays (Video & Mathematica)
 4. Transmission Heterogenities (Video & Mathematica)
 5. Spatial Models (Video & Mathematica)
 6. Stoachstic Epidemic Models (Video & Mathematica)
