@@ -46,7 +46,7 @@ For each assignment provide a **max 2pg critical review** of the assigned peer-r
 
 ### Lab Assignments
 
-* Lab 1: [Modelling HIV](https://storage.googleapis.com/math496/LabAssignment1.pdf) (**New Due Date** Janruary 26th)*
+* Lab 1: [Modelling HIV](https://storage.googleapis.com/math496/Labs/LabAssignment1.pdf) (**New Due Date** Janruary 26th)*
 * Lab 2: 
 * Lab 3:
 * Lab 4:
