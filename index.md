@@ -32,7 +32,8 @@ Friday 10:30-11:20 (Starting Janruary 14th)
 Office Hours: Tuesday and Friday12:30-1:30 [Office Hours Zoom](https://sfu.zoom.us/j/67247833947?pwd=ZTU1S0YvSGgxOWJLZ1VOWXFIcFh5QT09)
 
 
-**Writing Assignment PDFs**
+### Writing Assignments
+
 Submit Assignments as a **PDF** via email.  
 For each assignment provide a **max 2pg critical review** of the assigned peer-reviewed paper.  See syllabus for marking guide.
 
@@ -43,7 +44,8 @@ For each assignment provide a **max 2pg critical review** of the assigned peer-r
 * Assignment 5: [Huang and Rohanni 2006](https://storage.googleapis.com/math496/PDFs/HuangRohani2006.pdf) (Due: March 20)
 * Assignment 6: [Stadler et al. 2012](https://storage.googleapis.com/math496/PDFs/Stadler2012.pdf) (Due: April 3)
 
-**Lab Assignments**
+### Lab Assignments
+
 * Lab 1: [Modelling HIV](https://storage.googleapis.com/math496/LabAssignment1.pdf) (Due Janruary 19th)*
 * Lab 2: 
 * Lab 3:
