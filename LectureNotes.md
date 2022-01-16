@@ -30,6 +30,6 @@ title: Lecture Materials
 * 2.1 Numerical Integration ([Video](https://storage.googleapis.com/math496/Videos/Primer2_1.mp4.zip) & [Notes](https://storage.googleapis.com/math496/Primer2.1_Notes.pdf))
 * 2.2 Equilibria and Stability Analyses ([Video](https://storage.googleapis.com/math496/Videos/Primer2_2.mp4.zip) & [Notes](https://storage.googleapis.com/math496/Primer2.2_Notes.pdf))
 * 3.1 The Exponential Distribution, Convolutions and the Erlang Distribution ([Video](https://storage.googleapis.com/math496/Primer3_1.mp4.zip) & [Notes](https://storage.googleapis.com/math496/Videos/Primer3_1.mp4.zip))
-* 3.2 Eigenvalues, Eigenvectors, and Eigendecomposition (Video & Notes)
+* 3.2 Eigenvalues, Eigenvectors, and Eigendecomposition ([Video](https://storage.googleapis.com/math496/Videos/Primer3_2.mp4.zip) & [Notes](https://storage.googleapis.com/math496/Notes/Primer3.2_Notes.pdf))
 * 5.1 Perturbation method for solving algerbraic equations (Video & Notes)
  
