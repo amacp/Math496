@@ -30,9 +30,6 @@ Office Hours: Tuesday and Friday12:30-1:30 [Office Hours Zoom](https://sfu.zoom.
 ### Challenge Questions
 
 Questions are due 1 week after they are assigned.
-Challenge questions will be graded will be graded on the following scale
-* 0: did not turn in/ unacceptible attempt
-* 1: acceptible  attempt
 
 List of current and past [Challenge Questions](https://storage.googleapis.com/math496/ChallengeQuestions.pdf)
 
