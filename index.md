@@ -10,10 +10,6 @@ The aim of this course is to introduce the fundemental mathematical tools and su
 **Required Text:** Keeling, M.J., Rohani, P., *Modeling Infectious Diseases In Humans and Animals*. Princeton University Press. 2008. ISBN-13: 978-0-11617-4
 
 [**References**](https://amacp.github.io/Math496/Papers.html) List of primary literature used in this course
-
-## Announcments
-
-
 ## Course Content
 
 [**Syllabus** ](https://storage.googleapis.com/math496/Math496_Syllabus.pdf) (subject to change)
@@ -31,6 +27,14 @@ Friday 10:30-11:20 (Starting Janruary 14th)
 
 Office Hours: Tuesday and Friday12:30-1:30 [Office Hours Zoom](https://sfu.zoom.us/j/67247833947?pwd=ZTU1S0YvSGgxOWJLZ1VOWXFIcFh5QT09)
 
+### Challenge Questions
+
+A list of current and previous challenge questions.  Questions are due 1 week after they are assigned.
+Challenge questions will be graded will be graded on the following scale
+* 0: did not turn in/ unacceptible attempt
+* 1: acceptible  attempt
+
+[Challenge Questions](https://storage.googleapis.com/math496/ChallengeQuestions.pdf)
 
 ### Writing Assignments
 
