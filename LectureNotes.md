@@ -2,11 +2,12 @@
 layout: page
 title: Lecture Materials
 ---
+*Videos are posted as .zip files and will need be downloaded and upziped to be accessed*
 
 # Lecture Videos and Mathematica Notebooks
-1. Introduction to Mathematical Epidmeiology ([Notes](https://storage.googleapis.com/math496/Lecture1_Notes.pdf))
-2. The SIR Model ([Video](https://storage.googleapis.com/math496/Videos/Lecture2_1_14.mp4) & [Mathematica](https://storage.googleapis.com/math496/Mathematica/Lecture2_SIR.nb) & [Notes](https://storage.googleapis.com/math496/Notes/Lecture2_Notes.pdf)) 
-3. Distributed Delays (Video & Mathematica)
+1. Introduction to Mathematical Epidmeiology ([Notes](https://storage.googleapis.com/math496/Notes/Lecture1_Notes.pdf))
+2. The SIR Model ([Video](https://storage.googleapis.com/math496/Videos/Lecture2_1_14.mp4.zip) & [Mathematica](https://storage.googleapis.com/math496/Mathematica/Lecture2_SIR.nb) & [Notes](https://storage.googleapis.com/math496/Notes/Lecture2_Notes.pdf)) 
+3. Distributed Delays ([Video](https://storage.googleapis.com/math496/Videos/Lecture3_1_18.mp4.zip) & [Mathematica](https://storage.googleapis.com/math496/Mathematica/Lecture3_Delays.nb) & [Notes](https://storage.googleapis.com/math496/Notes/Lecture3_Notes.pdf))
 4. Transmission Heterogenities (Video & Mathematica)
 5. Spatial Models (Video & Mathematica)
 6. Stoachstic Epidemic Models (Video & Mathematica)
@@ -27,9 +28,9 @@ title: Lecture Materials
 # Mathematical Primers
 * 1.1 Accessing Raspberry Pi with VNC ([Instructions](https://storage.googleapis.com/math496/VNC_Access.docx))
 * 1.2 Introduction to Mathematica ([Webpage](https://www.wolfram.com/language/fast-introduction-for-math-students/en///)) 
-* 2.1 Numerical Integration ([Video](https://storage.googleapis.com/math496/Videos/Primer2_1.mp4.zip) & [Notes](https://storage.googleapis.com/math496/Primer2.1_Notes.pdf))
-* 2.2 Equilibria and Stability Analyses ([Video](https://storage.googleapis.com/math496/Videos/Primer2_2.mp4.zip) & [Notes](https://storage.googleapis.com/math496/Primer2.2_Notes.pdf))
-* 3.1 The Exponential Distribution, Convolutions and the Erlang Distribution ([Video](https://storage.googleapis.com/math496/Primer3_1.mp4.zip) & [Notes](https://storage.googleapis.com/math496/Videos/Primer3_1.mp4.zip))
+* 2.1 Numerical Integration ([Video](https://storage.googleapis.com/math496/Videos/Primer2_1.mp4.zip) & [Notes](https://storage.googleapis.com/math496/Notes/Primer2.1_Notes.pdf))
+* 2.2 Equilibria and Stability Analyses ([Video](https://storage.googleapis.com/math496/Videos/Primer2_2.mp4.zip) & [Notes](https://storage.googleapis.com/math496/Notes/Primer2.2_Notes.pdf))
+* 3.1 The Exponential Distribution, Convolutions and the Erlang Distribution ([Video](https://storage.googleapis.com/math496/Primer3_1.mp4.zip) & [Notes](https://storage.googleapis.com/math496/Notes/Primer3.1_Notes.pdf))
 * 3.2 Eigenvalues, Eigenvectors, and Eigendecomposition ([Video](https://storage.googleapis.com/math496/Videos/Primer3_2.mp4.zip) & [Notes](https://storage.googleapis.com/math496/Notes/Primer3.2_Notes.pdf))
 * 5.1 Perturbation method for solving algerbraic equations (Video & Notes)
  
