@@ -39,7 +39,7 @@ Submit Assignments as a **PDF** via email.
 For each assignment provide a **max 2pg critical review** of the assigned peer-reviewed paper.  See syllabus for marking guide.
 
 * Assignment 1: [Anderson and May 1982](https://storage.googleapis.com/math496/PDFs/AndersondMay1982.pdf) (Due: Janruary 23)* 
-* Assignment 2: [House and Keeling 2008](https://storage.googleapis.com/math496/PDFs/HouseKeeling2008.pdf) (Due: Janruary 30)
+* Assignment 2: [Wu et al. 2006](https://github.com/amacp/Math496/blob/gh-pages/WuEtAl2006.pdf) (Due: Janruary 30)
 * Assignment 3: [Keeling 2005](https://storage.googleapis.com/math496/PDFs/Keeling2005.pdf) (Due: February 6)
 * Assignment 4: [Parham and Michael 2010](https://storage.googleapis.com/math496/PDFs/ParhamMichael2010.pdf) (Due: March 6)
 * Assignment 5: [Huang and Rohanni 2006](https://storage.googleapis.com/math496/PDFs/HuangRohani2006.pdf) (Due: March 20)
