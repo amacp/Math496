@@ -9,7 +9,7 @@ title: Lecture Materials
 2. The SIR Model ([Video](https://storage.googleapis.com/math496/Videos/Lecture2_1_14.mp4.zip) & [Mathematica](https://storage.googleapis.com/math496/Mathematica/Lecture2_SIR.nb) & [Notes](https://storage.googleapis.com/math496/Notes/Lecture2_Notes.pdf)) 
 3. Distributed Delays ([Video](https://storage.googleapis.com/math496/Videos/Lecture3_1_18.mp4.zip) & [Mathematica](https://storage.googleapis.com/math496/Mathematica/Lecture3_Delays.nb) & [Notes](https://storage.googleapis.com/math496/Notes/Lecture3_Notes.pdf))
 4. Transmission Heterogenities ([Video](https://storage.googleapis.com/math496/Videos/Lecture4_1_21.mp4.zip) & [Mathematica](https://storage.googleapis.com/math496/Mathematica/Lecture4_RiskStructure.nb) & [Notes](https://storage.googleapis.com/math496/Notes/Lecture4_Notes.pdf))
-5. Spatial Models (Video & Mathematica)
+5. Spatial Models ([Video](https://storage.googleapis.com/math496/Videos/Lecture5_1_25.mp4.zip) & [Mathematica](https://storage.googleapis.com/math496/Mathematica/Lecture5_Metapopulation.nb) & [Notes](https://storage.googleapis.com/math496/Notes/Lecture5_Notes.pdf))
 6. Stoachstic Epidemic Models (Video & Mathematica)
 7. Network Models (Video & Mathematica)
 8. Model Parameterization (Video & Mathematica)
