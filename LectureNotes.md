@@ -34,3 +34,6 @@ title: Lecture Materials
 * 3.2 Eigenvalues, Eigenvectors, and Eigendecomposition ([Video](https://storage.googleapis.com/math496/Videos/Primer3_2.mp4.zip) & [Notes](https://storage.googleapis.com/math496/Notes/Primer3.2_Notes.pdf))
 * 5.1 Perturbation method for solving algerbraic equations ([Video](https://storage.googleapis.com/math496/Videos/Primer5_1.mp4.zip) & [Notes](https://storage.googleapis.com/math496/Notes/Primer5.1_Notes.pdf))
  
+# Challenge Question Solutions
+Challenge [2](https://storage.googleapis.com/math496/Mathematica/Solutions_ChallengeQuestions2.nb) 
+Challenge [3](https://storage.googleapis.com/math496/Mathematica/Solutions_Challenge_3.nb)
