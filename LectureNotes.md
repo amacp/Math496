@@ -33,6 +33,7 @@ title: Lecture Materials
 * 3.1 The Exponential Distribution, Convolutions and the Erlang Distribution ([Video](https://storage.googleapis.com/math496/Videos/Primer3_1.mp4.zip) & [Notes](https://storage.googleapis.com/math496/Notes/Primer3.1_Notes.pdf))
 * 3.2 Eigenvalues, Eigenvectors, and Eigendecomposition ([Video](https://storage.googleapis.com/math496/Videos/Primer3_2.mp4.zip) & [Notes](https://storage.googleapis.com/math496/Notes/Primer3.2_Notes.pdf))
 * 5.1 Perturbation method for solving algerbraic equations ([Video](https://storage.googleapis.com/math496/Videos/Primer5_1.mp4.zip) & [Notes](https://storage.googleapis.com/math496/Notes/Primer5.1_Notes.pdf))
+* 7.1 Gillespie Algorithms ([Video](https://storage.googleapis.com/math496/Videos/Primer7_1.mp4.zip) & [Notes](https://storage.googleapis.com/math496/Notes/Primer7.1_Notes.pdf))
  
 # Challenge Question Solutions
 * Challenge [2](https://storage.googleapis.com/math496/Mathematica/Solutions_Challenge_2.nb) 
