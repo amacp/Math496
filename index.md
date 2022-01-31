@@ -48,11 +48,9 @@ For each assignment provide a **max 2pg critical review** of the assigned peer-r
 ### Lab Assignments
 
 * Lab 1: [Modelling HIV](https://storage.googleapis.com/math496/Labs/LabAssignment1.pdf) (**New Due Date** Janruary 26th)*
-* Lab 2: [Modelling Chikenpox](https://storage.googleapis.com/math496/Labs/LabAssignment2.pdf) (Due February 2nd)
-* Lab 3: [Stochastic Epidemics](https://storage.googleapis.com/math496/Labs/LabAssignment3.pdf) (Due February 9th)
-* Lab 4:
-* Lab 5:
-* Lab 6:
+* Lab 2: [Modelling Chikenpox](https://storage.googleapis.com/math496/Labs/LabAssignment2.pdf) (Due February 9nd)
+* Lab 3: [Stochastic Epidemics](https://storage.googleapis.com/math496/Labs/LabAssignment3.pdf) (Due March 2nd)
+* Lab 4: Antibiotic Resistence (Due March 23rd)
 
 
 *All assignments due at 11:59pm
