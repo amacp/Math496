@@ -12,7 +12,7 @@ title: Lecture Materials
 5. Spatial Models ([Video](https://storage.googleapis.com/math496/Videos/Lecture5_1_25.mp4.zip) & [Mathematica](https://storage.googleapis.com/math496/Mathematica/Lecture5_Metapopulation.nb) & [Notes](https://storage.googleapis.com/math496/Notes/Lecture5_Notes.pdf))
 6. Household Model ([Vdieo](https://storage.googleapis.com/math496/Videos/Lecture6_1_28.mp4.zip))
 7. Stoachstic Epidemic Models ([Video](https://storage.googleapis.com/math496/Videos/Lecture7_2_1.mp4.zip) & [Mathematica](https://storage.googleapis.com/math496/Mathematica/Lecture7_StocahsticEpidemic.nb) & [Notes](https://storage.googleapis.com/math496/Notes/Lecture7_Notes.pdf))
-8. Network Models (Video & Mathematica)
+8. Network Models ([Video](https://storage.googleapis.com/math496/Videos/Lecture8_2_4.mp4.zip) & [Mathematica](https://storage.googleapis.com/math496/Mathematica/Lecture8_Network.nb) & [Notes](https://storage.googleapis.com/math496/Notes/Lecture8_Notes.pdf))
 9. Model Parameterization (Video & Mathematica)
 10. Model Uncertainty, adequacy, and selection (Video & Mathematica)
 11. Prediction and Forcasting (Video & Mathematica)
