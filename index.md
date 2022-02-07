@@ -8,6 +8,7 @@ title: Mathematical Epidemiology
 The aim of this course is to introduce the fundemental mathematical tools and survey contemporary methods used to understand and forcast epidemic dynamics and their use to inform public health policy. As a rapidly changing field, this course will focus on developing our ability to understand, analyze, and apply the recent scientific literature.  
 
 **Required Text:** Keeling, M.J., Rohani, P., *Modeling Infectious Diseases In Humans and Animals*. Princeton University Press. 2008. ISBN-13: 978-0-11617-4
+
 [**Suggested Reading**](https://github.com/amacp/Math496/blob/gh-pages/SuggestedReading.md) The list of popular science texts to inspire your curriostiy can be found [here](https://github.com/amacp/Math496/blob/gh-pages/SuggestedReading.md).
 
 [**References**](https://amacp.github.io/Math496/Papers.html) List of primary literature used in this course
