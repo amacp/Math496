@@ -6,7 +6,7 @@ title: Suggested Reading
 Successfully modelling infectious disease requires both mathematical literacy to analyze the models and a depth of knowledge about the disease itself.  
 The following suggested reading provide basic background into a diverse array of infectious diseases.  Use them to inspire your curiosity!
 
-# Books
+## Books
 1. Rabid: *A Cultural History of the World's Most Diabolical Virus*. Bill Wasik and Monica Murphy 
   * [Google Books](https://www.google.ca/books/edition/Rabid/i8j30cXPKj8C?hl=en&gbpv=1&printsec=frontcover)
   * [NPR Review](https://www.npr.org/2012/07/19/157049292/terrible-virus-fascinating-history-in-rabid)
