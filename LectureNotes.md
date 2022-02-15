@@ -14,7 +14,7 @@ title: Lecture Materials
 7. Stoachstic Epidemic Models ([Video](https://storage.googleapis.com/math496/Videos/Lecture7_2_1.mp4.zip) & [Mathematica](https://storage.googleapis.com/math496/Mathematica/Lecture7_StocahsticEpidemic.nb) & [Notes](https://storage.googleapis.com/math496/Notes/Lecture7_Notes.pdf))
 8. Network Models ([Video](https://storage.googleapis.com/math496/Videos/Lecture8_2_4.mp4.zip) & [Mathematica](https://storage.googleapis.com/math496/Mathematica/Lecture8_Network.nb) & [Notes](https://storage.googleapis.com/math496/Notes/Lecture8_Notes.pdf))
 9. Interventions ([Video 1](https://storage.googleapis.com/math496/Videos/Lecture9_2_8.mp4.zip) & [Video 2](https://storage.googleapis.com/math496/Videos/Lecture10_2_11.mp4.zip) & [Mathematica](https://storage.googleapis.com/math496/Mathematica/Lecture9_VaccinationProgram.nb) & [Notes](https://storage.googleapis.com/math496/Notes/Lecture9_10_Notes.pdf))
-10. Model Parameterization (Video & Mathematica)
+10. Model Parameterization ([Video 1](https://storage.googleapis.com/math496/Videos/Lecture11_2_15.mp4.zip) & Mathematica)
 11. Model Uncertainty, adequacy, and selection (Video & Mathematica)
 12. Prediction and Forcasting (Video & Mathematica)
 14. Disease Ecology (Video & Mathematica)
