@@ -17,7 +17,7 @@ title: Lecture Materials
 10. Model Parameterization ([Video 1](https://storage.googleapis.com/math496/Videos/Lecture11_2_15.mp4.zip) & [Video 2](https://storage.googleapis.com/math496/Videos/Lecture12_2_18.mp4.zip) & [Data1](https://storage.googleapis.com/math496/Notes/Infleunza2018.csv) & [Data2](https://storage.googleapis.com/math496/Notes/daily-covid-cases-deaths.csv) & [Mathematica](https://storage.googleapis.com/math496/Mathematica/Lecture11_Parameterization.nb) & [Notes](https://storage.googleapis.com/math496/Notes/Lecture12_Notes.pdf))
 
 # Case Studies
-1. Rabies in *V. vulpus*: [Case study](https://storage.googleapis.com/math496/Notes/CaseStudy_1.pdf), [Mathematica](https://storage.googleapis.com/math496/Mathematica/CaseStudy_1.nb), [Video](https://storage.googleapis.com/math496/Videos/Lecture13_3_1.mp4.zip)
+1. Rabies in *V. vulpus*: [Case study](https://storage.googleapis.com/math496/Notes/CaseStudy_1.pdf), [Mathematica](https://storage.googleapis.com/math496/Mathematica/CaseStudy_1.nb), [Video1](https://storage.googleapis.com/math496/Videos/Lecture13_3_1.mp4.zip) [Video2](https://storage.googleapis.com/math496/Videos/Lecture14_3_4.mp4.zip)
 
 # Mathematical Primers
 * 1.1 Accessing Raspberry Pi with VNC ([Instructions](https://storage.googleapis.com/math496/VNC_Access.docx))
