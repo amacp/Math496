@@ -37,3 +37,4 @@ title: Lecture Materials
 * Challenge [4](https://storage.googleapis.com/math496/Mathematica/Solutions_Challenge_4.nb)
 * Challenge [5](https://storage.googleapis.com/math496/Mathematica/Solutions_Challenge_5.nb)
 * Challenge [10](https://storage.googleapis.com/math496/Mathematica/Solutions_Challenge_10.nb)
+* Challenge [11](https://storage.googleapis.com/math496/Mathematica/Solutions_Challenge_11.nb)
