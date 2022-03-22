@@ -20,8 +20,8 @@ title: Lecture Materials
 1. Rabies in *V. vulpus*: [Case study](https://storage.googleapis.com/math496/Notes/CaseStudy_1.pdf), [Mathematica](https://storage.googleapis.com/math496/Mathematica/CaseStudy_1.nb), [Video1](https://storage.googleapis.com/math496/Videos/Lecture13_3_1.mp4.zip) [Video2](https://storage.googleapis.com/math496/Videos/Lecture14_3_4.mp4.zip)
 > Summary Due: March 11
 2. Ebola Virus Outbreak: [Case study](https://storage.googleapis.com/math496/Notes/CaseStudy_2.pdf), [Mathematica](https://storage.googleapis.com/math496/Mathematica/CaseStudy_2.nb), [Video1](https://storage.googleapis.com/math496/Videos/Lecture16_3_11.mp4.zip), [Video2](https://storage.googleapis.com/math496/Videos/Lecture17_3_17.mp4.zip)) 
-> Summary Due: March 22
-3. COVID-19 Evolution: [Case study](https://storage.googleapis.com/math496/Notes/CaseStudy_3.pdf), [Matematica 1](https://storage.googleapis.com/math496/Mathematica/CaseStudy_3.nb), [Mathematica 2](https://storage.googleapis.com/math496/Mathematica/SelectionSIR.nb), [Video 1](https://storage.googleapis.com/math496/Videos/Lecture18_3_18.mp4), Video 2
+> Summary Due: March 25
+3. COVID-19 Evolution: [Case study](https://storage.googleapis.com/math496/Notes/CaseStudy_3.pdf), [Matematica 1](https://storage.googleapis.com/math496/Mathematica/CaseStudy_3.nb), [Mathematica 2](https://storage.googleapis.com/math496/Mathematica/SelectionSIR.nb), [Video 1](https://storage.googleapis.com/math496/Videos/Lecture18_3_18.mp4), [Video 2](https://storage.googleapis.com/math496/Videos/Lecture18_3_18.mp4), Video 3 []
 > Summary Due: TBD
 4. 
 
