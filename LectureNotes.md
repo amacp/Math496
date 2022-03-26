@@ -21,9 +21,8 @@ title: Lecture Materials
 > Summary Due: March 11
 2. Ebola Virus Outbreak: [Case study](https://storage.googleapis.com/math496/Notes/CaseStudy_2.pdf), [Mathematica](https://storage.googleapis.com/math496/Mathematica/CaseStudy_2.nb), [Video1](https://storage.googleapis.com/math496/Videos/Lecture16_3_11.mp4.zip), [Video2](https://storage.googleapis.com/math496/Videos/Lecture17_3_17.mp4.zip)) 
 > Summary Due: March 25
-3. COVID-19 Evolution: [Case study](https://storage.googleapis.com/math496/Notes/CaseStudy_3.pdf), [Matematica 1](https://storage.googleapis.com/math496/Mathematica/CaseStudy_3.nb), [Mathematica 2](https://storage.googleapis.com/math496/Mathematica/SelectionSIR.nb), [Video 1](https://storage.googleapis.com/math496/Videos/Lecture18_3_18.mp4), [Video 2](https://storage.googleapis.com/math496/Videos/Lecture18_3_18.mp4), Video 3 []
-> Summary Due: TBD
-4. 
+3. COVID-19 Evolution: [Case study](https://storage.googleapis.com/math496/Notes/CaseStudy_3.pdf), [Matematica 1](https://storage.googleapis.com/math496/Mathematica/CaseStudy_3.nb), [Mathematica 2](https://storage.googleapis.com/math496/Mathematica/SelectionSIR.nb), [Video 1](https://storage.googleapis.com/math496/Videos/Lecture18_3_18.mp4), [Video 2](https://storage.googleapis.com/math496/Videos/Lecture19_3_22.mp4.zip), [Video 3](https://storage.googleapis.com/math496/Videos/Lecture20_3_26.mp4.zip)
+> Summary Due: April 8
 
 # Mathematical Primers
 * 1.1 Accessing Raspberry Pi with VNC ([Instructions](https://storage.googleapis.com/math496/VNC_Access.docx))
